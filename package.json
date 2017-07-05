@@ -9,6 +9,7 @@
   "author": "Enrique Suarez",
   "license": "ISC",
   "devDependencies": {
+    "@angular/cli": "^1.2.0",
     "mocha": "^3.4.2",
     "nightwatch": "^0.9.16",
     "webpack": "^3.0.0",
@@ -16,9 +17,6 @@
   },
   "dependencies": {
     "intl": "^1.2.5",
-    "modernizr": "^3.5.0",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-redux": "^5.0.5"
+    "modernizr": "^3.5.0"
   }
 }
